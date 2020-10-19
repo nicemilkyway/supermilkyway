@@ -1,0 +1,8 @@
+title: Supermilkyway
+description: Brendan's sweet website
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
